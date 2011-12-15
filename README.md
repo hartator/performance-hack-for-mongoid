@@ -16,4 +16,4 @@ Simply add `activerelation_limit.rb` to `config/initializers/` in a Rails App.
      
 ### Related
 
-Same path for ActiveRecord : https://github.com/hartator/Performance-Hack-for-ActiveRecord
+Similar patch for ActiveRecord : https://github.com/hartator/Performance-Hack-for-ActiveRecord
