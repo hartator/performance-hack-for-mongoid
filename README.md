@@ -6,7 +6,7 @@ Small patch to Mongoid::Criteria to limit and offset the MongoDB query to releva
 
 ### Installation
 
-Simply add `activerelation_limit.rb` to `config/initializers/` in a Rails App.
+Simply add `limit_critera.rb` to `config/initializers/` in a Rails App.
 
 ### Usage
 
